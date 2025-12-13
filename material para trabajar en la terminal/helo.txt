@@ -1,0 +1,123 @@
+mauredev
+holaecho mauredev > helo.txt
+hola
+.
+├── 1.3 taller modelado de funciones.pdf
+├── 1daee22f3f13fe6bc6a343f829565759-3511dc6de6a7bf064c168b4f20b85a20d8f83b91
+│   ├── evangelio_segun_marcos.txt
+│   ├── funes_el_memorioso.txt
+│   └── la_biblioteca_de_babel.txt
+├── evangelio_segun_marcos.txt
+├── funciones.pdf
+├── funes_el_memorioso.txt
+├── Geogebra
+│   ├── 1.3 taller modelado de funciones.pdf
+│   ├── GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers_files
+│   │   ├── 117-cfe3baab44ff5a89.js
+│   │   ├── 289-cc01b0d414ea6b56.js
+│   │   ├── 2a223334-f45786012016d17d.js
+│   │   ├── 3-9c239c6aac49d122.js
+│   │   ├── 321-42f8f14248cbcc98.js
+│   │   ├── 327-aeede3700aab7a37.js
+│   │   ├── 631bf620cc2efd76.css
+│   │   ├── Algebra_1x.5153ec62.webp
+│   │   ├── bc07b633-41e47a0919612cd1.js
+│   │   ├── CalculatorLarge1x.801e83e4.webp
+│   │   ├── challenge.js
+│   │   ├── choice.js
+│   │   ├── ClassroomLarge1x.285e1fcf.webp
+│   │   ├── error-72be3efbbb0b1429.js
+│   │   ├── fd9d1056-ab12ab32165c42a3.js
+│   │   ├── Geometry_1x.db34e5a8.webp
+│   │   ├── gtm.js
+│   │   ├── HeroImageMedium2x.642ea284.webp
+│   │   ├── irina_2x.7ed4ddf3.webp
+│   │   ├── jsapi.js
+│   │   ├── layout-4c4f4bd3d2f46b63.js
+│   │   ├── layout-b6b015e9fb2430dc.js
+│   │   ├── main-app-6429415f9d94ee31.js
+│   │   ├── maria_2x.5328ab12.webp
+│   │   ├── MathPracticeLarge1x.734a1c22.webp
+│   │   ├── MathResourcesLarge1x.597df6f6.webp
+│   │   ├── Measurement_1x.3408bddc.webp
+│   │   ├── nancy_2x.aa9cddc0.webp
+│   │   ├── not-found-6266f95deb38f9b1.js
+│   │   ├── Number_sense_1x.3b248a69.webp
+│   │   ├── Operations_1x.087d7ea7.webp
+│   │   ├── page-ea5bb1335552a31e.js
+│   │   ├── peter_2x.bf0b8a66.webp
+│   │   ├── polyfills-42372ed130431b0a.js
+│   │   ├── Probability_and_Statistics_1x.113a4954.webp
+│   │   ├── saved_resource.html
+│   │   ├── steven_2x.065ac6f4.webp
+│   │   ├── TeamPhotoLarge2x.07bba83d.webp
+│   │   └── webpack-33d2a6fc0aa69357.js
+│   └── GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers.html
+├── Geogebra copy
+│   ├── 1.3 taller modelado de funciones.pdf
+│   └── GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers_files
+│       ├── 117-cfe3baab44ff5a89.js
+│       ├── 289-cc01b0d414ea6b56.js
+│       ├── 2a223334-f45786012016d17d.js
+│       ├── 3-9c239c6aac49d122.js
+│       ├── 321-42f8f14248cbcc98.js
+│       ├── 327-aeede3700aab7a37.js
+│       ├── 631bf620cc2efd76.css
+│       ├── Algebra_1x.5153ec62.webp
+│       ├── bc07b633-41e47a0919612cd1.js
+│       ├── CalculatorLarge1x.801e83e4.webp
+│       ├── challenge.js
+│       ├── choice.js
+│       ├── ClassroomLarge1x.285e1fcf.webp
+│       ├── error-72be3efbbb0b1429.js
+│       ├── fd9d1056-ab12ab32165c42a3.js
+│       ├── Geometry_1x.db34e5a8.webp
+│       ├── gtm.js
+│       ├── HeroImageMedium2x.642ea284.webp
+│       ├── irina_2x.7ed4ddf3.webp
+│       ├── jsapi.js
+│       ├── layout-4c4f4bd3d2f46b63.js
+│       ├── layout-b6b015e9fb2430dc.js
+│       ├── main-app-6429415f9d94ee31.js
+│       ├── maria_2x.5328ab12.webp
+│       ├── MathPracticeLarge1x.734a1c22.webp
+│       ├── MathResourcesLarge1x.597df6f6.webp
+│       ├── Measurement_1x.3408bddc.webp
+│       ├── nancy_2x.aa9cddc0.webp
+│       ├── not-found-6266f95deb38f9b1.js
+│       ├── Number_sense_1x.3b248a69.webp
+│       ├── Operations_1x.087d7ea7.webp
+│       ├── page-ea5bb1335552a31e.js
+│       ├── peter_2x.bf0b8a66.webp
+│       ├── polyfills-42372ed130431b0a.js
+│       ├── Probability_and_Statistics_1x.113a4954.webp
+│       ├── saved_resource.html
+│       ├── steven_2x.065ac6f4.webp
+│       ├── TeamPhotoLarge2x.07bba83d.webp
+│       └── webpack-33d2a6fc0aa69357.js
+├── helo.txt
+├── la_biblioteca_de_babel.txt
+├── OVA.pdf
+├── SymboLab asistente matematico
+│   ├── Calculadora de derivadas_files
+│   │   ├── ajax-loader.gif
+│   │   ├── client
+│   │   ├── jquery.min.js
+│   │   ├── js
+│   │   ├── main_narrow_header.min.css
+│   │   ├── main_narrow_header.min.js
+│   │   ├── OtAutoBlock.js
+│   │   ├── otBannerSdk.js
+│   │   ├── otSDKStub.js
+│   │   ├── pad_matrixnxn.png
+│   │   ├── practice_icon1.png
+│   │   ├── solutions_narrow_header.min.css
+│   │   ├── solutions_narrow_header.min.js
+│   │   ├── style
+│   │   └── symbolab_solver.js
+│   ├── Calculadora de derivadas.html
+│   ├── Screenshot 2025-11-13 at 6.10.17 AM.png
+│   └── Screenshot 2025-11-13 at 6.10.46 AM.png
+└── Trabajo individual primera pregunta Geogebra .ggb
+
+8 directories, 110 files

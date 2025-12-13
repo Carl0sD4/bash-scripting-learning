@@ -1,0 +1,5 @@
+hola, 
+mi nombre es carlos 
+
+Este es el curso de bash esta es la leccion sobre nano. 
+
